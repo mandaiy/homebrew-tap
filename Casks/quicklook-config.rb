@@ -7,7 +7,7 @@ cask "quicklook-config" do
   desc "Quick Look preview extension for YAML / JSON / TOML files"
   homepage "https://github.com/mandaiy/quicklook-config"
 
-  depends_on macos: ">= 13.0"
+  depends_on macos: :ventura
 
   app "QuickLookConfig.app"
 
