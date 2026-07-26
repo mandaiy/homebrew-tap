@@ -1,6 +1,6 @@
 cask "quicklook-config" do
-  version "0.1.1"
-  sha256 "9d03c4f839a4e3a5ecc1f5bd30fc19bbea9bebbd46134cd30750ae4e61d5dc53"
+  version "0.1.2"
+  sha256 "2b606054fd54dbbf573edfd82e883da92eb05c961e6fddbabbbfac7e2a0cfecf"
 
   url "https://github.com/mandaiy/quicklook-config/releases/download/v#{version}/QuickLookConfig.zip"
   name "QuickLook Config"
